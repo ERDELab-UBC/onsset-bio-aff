@@ -1,5 +1,6 @@
 # onsset-bio-aff
-Official Open Source Spatial Electrification Tool (OnSSET) analysis on competitive deployment of biomass gasification systems developed using the ``` Global Electrification Platform (GEP) version 3 ```.
+
+Implementation of bioenergy calculations based on the Open Source Spatial Electrification Tool (OnSSET) using the ``` Global Electrification Platform (GEP) version 3 ```.
 
 ## Background 
 
